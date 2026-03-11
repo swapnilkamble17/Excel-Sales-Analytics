@@ -86,4 +86,22 @@ To evaluate the company’s financial health, ensure informed planning, and supp
 - [x] Report optimization and fine-tuning
 - [x] Structured approach to planning report workflows
 
+## 📂 Reports (PDF Outputs)
+
+> Click any button below to view the corresponding PDF report.
+
+| Report Name | Link |
+|-------------|------|
+| Customer Net Sales Performance |🔗 *Customer_Net_Sales_Performance.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Customer%20Perfomance%20Report.pdf)|
+| Division Level Report |🔗 *Division_Level_Report.pdf* ]( )|
+| GM % By Quarters (Sub_Zone) | [🔗 *GM % By Quarters (Sub_Zone)* ]() |
+| Market Performance vs Target | [🔗 *Market_Performace_VS_Target.pdf* ]()|
+| New Products 2021 | [🔗 *New_Products_2021.pdf*]() |
+| P&L by Fiscal Year | [🔗 *P&L by Fiscal Year*]() |
+| P&L by Month | [🔗 *P&L_by_Month.pdf* ]() |
+| P&L For Markets | [🔗 *P&L_for_Markets.pdf* ]() |
+| Top 10 Products | [🔗 *Top_10_Products_.pdf*]() |
+| Top 5 Countries | [🔗 *Top_5_Countries_.pdf*]() |
+| Top & Bottom 5 Products | [🔗 *Top_and_Bottom_5_products_.pdf*]() |
+
 ---
