@@ -92,16 +92,16 @@ To evaluate the company’s financial health, ensure informed planning, and supp
 
 | Report Name | Link |
 |-------------|------|
-| Customer Net Sales Performance |🔗 *Customer_Net_Sales_Performance.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Customer%20Perfomance%20Report.pdf)|
-| Division Level Report |🔗 *Division_Level_Report.pdf* ]( )|
-| GM % By Quarters (Sub_Zone) | [🔗 *GM % By Quarters (Sub_Zone)* ]() |
-| Market Performance vs Target | [🔗 *Market_Performace_VS_Target.pdf* ]()|
-| New Products 2021 | [🔗 *New_Products_2021.pdf*]() |
-| P&L by Fiscal Year | [🔗 *P&L by Fiscal Year*]() |
-| P&L by Month | [🔗 *P&L_by_Month.pdf* ]() |
-| P&L For Markets | [🔗 *P&L_for_Markets.pdf* ]() |
-| Top 10 Products | [🔗 *Top_10_Products_.pdf*]() |
-| Top 5 Countries | [🔗 *Top_5_Countries_.pdf*]() |
-| Top & Bottom 5 Products | [🔗 *Top_and_Bottom_5_products_.pdf*]() |
+| Customer Net Sales Performance |[🔗 *Customer_Net_Sales_Performance.pdf*](https://github.com/swapnilkamble17/Excel-Sales Analytics/blob/main/Customer%20Perfomance%20Report.pdf)|
+| Division Level Report |[🔗 *Division_Level_Report.pdf* ](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)|
+| GM % By Quarters (Sub_Zone) | [🔗 *GM % By Quarters (Sub_Zone)* ](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/GM%20%25%20By%20Quarters%20(Sub_Zone).pdf) |
+| Market Performance vs Target | [🔗 *Market_Performace_VS_Target.pdf* ](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/arket%20Performance%20vs%20Target.pdf)|
+| New Products 2021 | [🔗 *New_Products_2021.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/New%20Products.pdf) |
+| P&L by Fiscal Year | [🔗 *P&L by Fiscal Year*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Year%20excel.pdf) |
+| P&L by Month | [🔗 *P&L_by_Month.pdf* ](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf) |
+| P&L For Markets | [🔗 *P&L_for_Markets.pdf* ](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf) |
+| Top 10 Products | [🔗 *Top_10_Products_.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Top%2010%20Products%20.pdf) |
+| Top 5 Countries | [🔗 *Top_5_Countries_.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf) |
+| Top & Bottom 5 Products | [🔗 *Top_and_Bottom_5_products_.pdf*](https://github.com/swapnilkamble17/Excel-Sales-Analytics/blob/main/Top%20and%20Bottom%205%20Products.pdf) |
 
 ---
